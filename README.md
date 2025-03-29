@@ -7,3 +7,4 @@
 <p>Closing a Window ( ctrl+alt+c )</p>
 <p>Dynamic Window Sizing</p>
 <p>Windows created where mouse is located</p>
+<p>-------------------------------------------</p>
